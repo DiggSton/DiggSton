@@ -7,8 +7,8 @@ My journey in computer science has led me to develop a passion for **cybersecuri
 ---
 
 ## Objective
-To leverage my technical background and hands-on lab experience in networking, security monitoring, and incident response to contribute to a SOC team while continuing to grow as a cybersecurity professional.
-
+To show my knowledge and skill of my selected path **CyberSecurity**.  
+I will demonstrate my basic knowledge in **networking** and **security concepts** as well as hands-on labs.
 ---
 
 ## Skills
