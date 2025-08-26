@@ -1,7 +1,7 @@
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/christphen-diggsjr-971871108"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in **technology** and a dedication to solving **complex problems**.
+I am a Graduate in **CyberSecurity** with a strong devotion to **Technology** and problem solving.
 
 ## Objective
 
@@ -13,45 +13,45 @@ I will demonstrate my basic knowledge in **networking** and **security concepts*
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | **Network Topology**                          | <a href="https://viewer.diagrams.net/?edit=_blank&url=https://raw.githubusercontent.com/DiggSton/DiggSton/main/Small%20Business%20Star%20Topology.drawio">Security Network Topology</a> |
-| **Network Traffic Monitoring & Attack Detection** | <a href="https://google.com">Detection Lab</a> |
-| **Security Automation** with Shuffle SOAR     | SOC Automation Lab |
-| **Incident Response Planning & Execution**    | SOC Automation Lab |
-| **Case Management** with TheHive              | SOC Automation Lab |
-| **Scripting & Automation** for Threat Mitigation | SOC Automation Lab |
+| **** |  |
+| ****     |  |
+| ****    |  |
+| ****              |  |
+| **** |  |
 
 ## Tools
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src= />
+    <img src= />
+    <img src= />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src= />
+    <img src= />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src= />
+    <img src= />
+    <img src= />
 </div>
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src= />
+<img src= />
+<img src= />
+<img src= />
+<img src= />
 </div>
 
 ## Projects
 
-- **Detection Lab** → Simulated environment for monitoring & attack detection.  
-- **SOC Automation Project** → Automated workflows with Shuffle SOAR & TheHive.  
+-  
+-   
 - **Security Network Topology** → [View Diagram](https://viewer.diagrams.net/?edit=_blank&url=https://raw.githubusercontent.com/DiggSton/DiggSton/main/Small%20Business%20Star%20Topology.drawio)
