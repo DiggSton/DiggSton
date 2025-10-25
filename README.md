@@ -13,7 +13,7 @@ I will demonstrate my basic knowledge in **networking** and **security concepts*
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | **Network Topology**                          | <a href="https://viewer.diagrams.net/?edit=_blank&url=https://raw.githubusercontent.com/DiggSton/DiggSton/main/Small%20Business%20Star%20Topology.drawio">Security Network Topology</a> |
-| **** |  |
+| **Ubuntu(Suricata) IDS LAB** |<a href="https://github.com/DiggSton/Suricata-IDS-Lab" target="_blank">IDS Lab – Suricata Project</a>|
 | ****     |  |
 | ****    |  |
 | ****              |  |
